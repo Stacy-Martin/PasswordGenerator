@@ -187,4 +187,4 @@ alert("Your password will have " + getPasswordLength + " characters.")
   // is the click action and what it is going to do is the second argument "writePassword"
   // event listener always takes in two parameters, what is the action and what is the action going to do 
 generateBtn.addEventListener("click", writePassword);
-  // BUTTON SGHOULD HAVE EVENT LISTENER WITH CALLBACK FUNCTION
+  // BUTTON SHOULD HAVE EVENT LISTENER WITH CALLBACK FUNCTION
