@@ -4,7 +4,7 @@ A basic password generator created using JavaScript features, including basic HT
 
 Suggestions, contacts and constructive criticism are very welcome, contact me at sbrown1031@gmail.com.
 
-Credit and thanks to my teacher, Mim Armand, tutor, Alexandra Noto and classmate, Chris Martinez.
+Credit and thanks to my teacher - Mim Armand, tutor - Alexandra Noto, and classmate - Chris Martinez.
 
 ---
 
